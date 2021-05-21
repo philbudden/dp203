@@ -33,7 +33,13 @@ tags: ["data","azure","dp203"]
 
 # Windowing
 
-...
+- Allows functions to be run on sets of streaming data
+
+- Four kinds of windowing supported:
+    - [Sliding][sliding]
+    - [Tumbling][tumbling]
+    - [Hopping][hopping]
+    - [Session][session]
 
 [iot]: ./azure_iot_hub.md
 [event]: ./azure_event_hub.md
@@ -43,3 +49,7 @@ tags: ["data","azure","dp203"]
 [cosmosdb]: ./azure_cosmos_db.md
 [hdinsight]: ./azure_hdinsight.md
 [powerbi]: ./azure_powerbi.md
+[sliding]: ./sliding_window.md
+[tumbling]: ./tumbling_window.md
+[hopping]: ./hopping_window.md
+[session]: ./session_window.md
