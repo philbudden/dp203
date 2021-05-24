@@ -17,6 +17,8 @@ tags: ["certification","azure","dp203", "data engineering"]
 |[Azure SQL Database][sqldb]|Dynamicly scaling, OLTP |SDKs, T-SQL, [Azure Data Factory][factory]|T-SQL|[Encryption at rest][encryption], Advanced Threat Protection, SQL Database auditing, [Active Directory][activedirectory], Multifactor Authentication, Compliance certification|
 |[Azure Synpase Analytics][synapse]|Massively Parallel Processing, Only pay for computation you use|[Polybase][polybase], bcp, SQLBulkCopy API|T-SQL|SQL Server Authentication, Multifactor Authentication| 
 |[Azure Stream Analytics][stream]| |[IoT Hub][iothub], [Event Hub][eventhub], [Blob Storage][blob]|Stream Analytics query language|[Encrypted in transit][encryption]|
+|[Azure HDInsight][hdinsight]|[Hadoop][hadoop], [Spark][spark], [HBase][hbase], [Storm][storm], [Interactive Query][interactivequery]|[Hive][hive], [Azure Data Factory][factory]|[Pig][pig], [HiveQL][hive], [SparkSQL][spark]|[Encryption][encryption], Secure Shell, Shared Access Signatures, [Active Directory][azure_active_dirctory]|
+|[Databricks][databricks]|
 
 [blob]: ./azure_blob_storage.md
 [files]: ./azure_files.md
@@ -41,3 +43,11 @@ tags: ["certification","azure","dp203", "data engineering"]
 [stream]: ./azure_stream_analytics.md
 [iothub]: ./azure_iot_hub.md
 [eventhub]: ./azure_event_hub.md
+[hadoop]: ./azure_hadoop.md
+[spark]: ./apache_spark.md
+[hbase]: ./apache_hbase.md
+[storm]: ./apache_storm.md
+[interactivequery]: 
+[pig]: 
+[hive]: ./hadoop_hive.md
+[databricks]: ./databricks.md
