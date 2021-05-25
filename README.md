@@ -1,11 +1,6 @@
----
-title: "DP203 Certicication"
-tags: ["certification","azure","dp203", "data engineering"]
----
-
 # DP203 Certification
 
-...
+My notes for the DP-203: Data Engineering on Microsoft Azure certification
 
 ## Key services overview 
 
@@ -18,7 +13,7 @@ tags: ["certification","azure","dp203", "data engineering"]
 |[Azure Synpase Analytics][synapse]|Massively Parallel Processing, Only pay for computation you use|[Polybase][polybase], bcp, SQLBulkCopy API|T-SQL|SQL Server Authentication, Multifactor Authentication| 
 |[Azure Stream Analytics][stream]| |[IoT Hub][iothub], [Event Hub][eventhub], [Blob Storage][blob]|Stream Analytics query language|[Encrypted in transit][encryption]|
 |[Azure HDInsight][hdinsight]|[Hadoop][hadoop], [Spark][spark], [HBase][hbase], [Storm][storm], [Interactive Query][interactivequery]|[Hive][hive], [Azure Data Factory][factory]|[Pig][pig], [HiveQL][hive], [SparkSQL][spark]|[Encryption][encryption], Secure Shell, Shared Access Signatures, [Active Directory][azure_active_dirctory]|
-|[Databricks][databricks]|
+|[Databricks][databricks]|Fully managed [Spark][spark] clusters, interactive workspace| |R, Python, Scala, SQL|[Active Directory][azure_active_directory], Databricks Enterprise-grade security|
 
 [blob]: ./azure_blob_storage.md
 [files]: ./azure_files.md
@@ -50,4 +45,4 @@ tags: ["certification","azure","dp203", "data engineering"]
 [interactivequery]: 
 [pig]: 
 [hive]: ./hadoop_hive.md
-[databricks]: ./databricks.md
+[databricks]: ./azure_databricks.md
