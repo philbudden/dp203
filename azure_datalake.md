@@ -11,15 +11,15 @@ tags: ["data","azure","dp203"]
 
 - Unlimited scalability
 
-- Zone and Geo redundant storage
+- Zone and GED redundant storage
 
-- [Azure Blob Storage][blob] with a hierachial file system and performance tuning
+- [Azure Blob Storage][blob] with a hierarchical file system and performance tuning
 
 - Best for processing big-data analytic solutions
 
 - Access via:
     - Blob API
-    - Data LAke file API
+    - Data Lake file API
 
 - Can be used as the storage layer with compute layers such as:
     - [Azure Databricks][databricks]

@@ -17,12 +17,12 @@ tags ["data","azure","dp203"]
 
 - Data Movement Service (DMS) coordinates and transports data between compute nodes.
 
-- Use replicated tabes to reduce data movement and improve performance.
+- Use replicated tables to reduce data movement and improve performance.
 
 - Supports three types of distributed tables:
     - Hash
         - Each row assigned to a specific compute node by a deterministic hash function.
-	- Minimises data movement during quries and improves performance.
+	- Minimises data movement during queries and improves performance.
 	- Best for large tables (>2GB) with frequent INSERT, UPDATE and DELETE.
     - Round-robin
         - Rows distributed evenly across all distributions (at random).
@@ -31,7 +31,7 @@ tags ["data","azure","dp203"]
     - Replicated
         - Full copy of the table is replicated.
 	    - This uses a lot of space.
-	- Joins on replicated tables don't require data movement so quries are fast.
+	- Joins on replicated tables don't require data movement so queries are fast.
 	- Best for small table.
 
 - Uses ELT for bulk data

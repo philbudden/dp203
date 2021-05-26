@@ -11,7 +11,7 @@ tags: ["data","azure","dp203"]
     - Monitoring devices.
     - Gateways.
 
-- Azure Stream Analtyics is used to processing data streams in real-time.
+- Azure Stream Analytics is used to processing data streams in real-time.
 
 - Inputs include:
     - [IoT Hub][iot]
@@ -29,7 +29,7 @@ tags: ["data","azure","dp203"]
 - Use [PowerBI][powerbi] streaming API for real-time visualisation.
 
 - Data is encrypted in transit, but is generally discarded after the windowing operations finish.
-    - Unless transfered to a storage device, encryption is then handled by the device.
+    - Unless transferred to a storage device, encryption is then handled by the device.
 
 # Windowing
 

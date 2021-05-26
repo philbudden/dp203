@@ -17,6 +17,6 @@ tags: ["cloud_computing"]
 
 ## Horizontal Scaling
 
-- Also knowmn as scaling out
+- Also known as scaling out
 
 - Useful if you have a large number of reads but not writes.

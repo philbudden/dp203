@@ -11,4 +11,4 @@ tags: ["data","streaming","dp203"]
 
 - Windows can overlap
 
-[streaming]: ./azure_streaming_analytics.md
+[streaming]: ./azure_stream_analytics.md

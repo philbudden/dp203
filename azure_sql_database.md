@@ -8,7 +8,7 @@ tags: ["data","azure","dp203"]
 - Managed [relational Database][relationaldb] service based on [SQL Server][sqlserver].
 
 - Dynamic scaling on demand
-    - [Scale Up (Verical)][scaling]
+    - [Scale Up (Vertical)][scaling]
         - Two modes of scaling:
             - DTUs
                 - Database Transaction Units.

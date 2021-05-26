@@ -5,9 +5,9 @@ tags: ["azure"]
 
 # Azure IoT Hub
 
-- Cloud gateway taht connects IoT devices.
+- Cloud gateway that connects IoT devices.
 
-- Biderectional communication
+- Bidirectional communication
     - Receive data from devices.
     - Send commands and policies to devices.
 

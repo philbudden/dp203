@@ -17,12 +17,13 @@ tags: ["data","azure","dp203"]
 
 - Uses Java and Python to process big data
 
-- Mapper consumes and analzes input data and emits tuples that can be analyzed by Reducer
+- Mapper consumes and analyses input data and emits tuples that can be analyzed by Reducer
 
-- Reducer runs summary operations to create a samller combined result set
+- Reducer runs summary operations to create a smaller combined result set
 
+[hive]: ./hadoop_hive.md
 [hadoop]: ./apache_hadoop.md
 [hbase]: ./apache_hbase.md
 [spark]: ./apache_spark.md
 [kafka]: ./apache_kafka.md
-[hdfs]: ./hdfs.md
+[hdfs]: ./hadoop_hdfs.md

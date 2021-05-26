@@ -11,6 +11,6 @@ tags: ["data","streaming","dp203"]
 
 - Every window has at least one event
 
-- Windows continously move forward by an epsilon
+- Windows continuously move forward by an epsilon
 
-[streaming]: ./azure_streaming_analytics.md
+[streaming]: ./azure_stream_analytics.md

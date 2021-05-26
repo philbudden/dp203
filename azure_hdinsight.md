@@ -32,4 +32,5 @@ tags: ["data","azure","dp203"]
 [kafka]: ./apache_kafka.md
 [hbase]: ./apache_hbase.md
 [storm]: ./apache_storm.md
+[hive]: ./hadoop_hive.md
 [factory]: ./azure_data_factory

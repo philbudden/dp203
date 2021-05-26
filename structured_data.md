@@ -11,7 +11,7 @@ tags: ["data"]
 
 - Data in [Relational Database systems][relational_database] are structured data.
 
-- It is generally slow to implement changes in relational systems because the structure needs to change every time a data requirment changes.
+- It is generally slow to implement changes in relational systems because the structure needs to change every time a data requirement changes.
 
 - New columns require bulk-update to all existing records.
 

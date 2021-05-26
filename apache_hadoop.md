@@ -5,15 +5,15 @@ tags: ["data","apache"]
 
 # Apache Hadoop
 
-- Open source software library framework maintained by the Apach Foundation
+- Open source software library framework maintained by the Apache Foundation
 
 - Allows distributed processing of large data sets across clusters of computers using simple programming models
 
-- Designed to scale-up from single serviers to thousands of machines
+- Designed to scale-up from single servers to thousands of machines
 
 - Each node offers local computation and storage
 
-- Designed to detect and handle failures at the appliation layer
+- Designed to detect and handle failures at the application layer
 
 - Hadoop constitutes:
     - [HDFS][hdfs]

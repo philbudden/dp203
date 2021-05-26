@@ -5,8 +5,8 @@ tags: ["data"]
 
 # SQL Server
 
-- [Relational database][relationaldb] licenced by Microsoft.
--
+- [Relational database][relationaldb] licensed by Microsoft.
+
 - In addition to [relational data][relationaldata] can also support some types of [unstructured data][nonrelationaldata] including:
     - Spatial
     - XML
@@ -17,4 +17,4 @@ tags: ["data"]
 
 [relationaldb]: ./relational_database.md
 [relationaldata]: ./structured_data.md
-[nonrelationaldata]: ./unstructured_data.md
+[nonrelationaldata]: ./nonstructured_data.md

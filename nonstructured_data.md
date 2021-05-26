@@ -9,7 +9,7 @@ tags: ["data"]
 
 - Nonstructured data is data not stored in columnar form, for example binary, audio, image etc.
 -
-- Nonstructured data is stored in [non-realtional databases (commonsly refered to as NoSQL systems)][nonrelational_database].
+- Nonstructured data is stored in [non-realtional databases (commonly referred to as NoSQL systems)][nonrelational_database].
 
-[structured_data]: ./structured_data
-[nonrelational_database]: ./nonrelatiional_database
+[structured_data]: ./structured_data.md
+[nonrelational_database]: ./nonrelatiional_database.md

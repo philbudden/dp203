@@ -8,7 +8,7 @@ tags: ["data","azure","dp203"]
 - Azure storage accounts are the base storage type within Azure.
 
 - Azure storage can:
-    - Offer scalabe object store for data objects and file system services in the cloud.
+    - Offer scalable object store for data objects and file system services in the cloud.
     - Provide a messaging store for reliable messaging.
     - Act as a [NoSQL store][nosql].
 
@@ -27,7 +27,7 @@ tags: ["data","azure","dp203"]
 |Storage Type|Key Features|Data Ingestion|Queries|Data Security|
 |------------|------------|--------------|-------|-------------|
 |[Azure Blob][blob]|Cheap|[Azure Data Factory][factory], [Storage Explorer][storageexplorer], [AzCopy tool][azcopy], [Powershell][powershell], [Visual Studio][visualstudio]|Not supported|[Encryption at Rest][encryption], [RBAC][rbac]|
-|[Azure Data Lake][datalake]|Hierachial namespace, Unlimited size and scalability, Geo redundant storage |[Azure Data Factory][factory], [Apache Sqoop][sqoop], [Storage Explorer][storageexplorer], [AzCopy tool][azcopy], [Powershell][powershell], [Visual Studio][visualstudio]|Azure Blob Storage API, Azure Data Lake System API|[Encryption at rest][encryption], [Active Directory][activedirectory], [RBAC][rbac], Firewall|
+|[Azure Data Lake][datalake]|Hierarchical namespace, Unlimited size and scalability, Geo redundant storage |[Azure Data Factory][factory], [Apache Sqoop][sqoop], [Storage Explorer][storageexplorer], [AzCopy tool][azcopy], [Powershell][powershell], [Visual Studio][visualstudio]|Azure Blob Storage API, Azure Data Lake System API|[Encryption at rest][encryption], [Active Directory][activedirectory], [RBAC][rbac], Firewall|
 
 [nosql]: ./nonrelational_database.md
 [blob]: ./azure_blob_storage.md

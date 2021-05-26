@@ -13,4 +13,4 @@ tags: ["data","streaming","dp203"]
 
 - Events cannot belong to more than one tumbling window
 
-[streaming]: ./azure_streaming_analytics.md
+[streaming]: ./azure_stream_analytics.md

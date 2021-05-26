@@ -13,7 +13,7 @@ tags: ["data","azure","dp203"]
 
 - Blob storage is the cheapest way to store data in Azure.
 
-- There are three access tiers which manage the data lifecycle in Azure Blob Storage:
+- There are three access tiers which manage the data life-cycle in Azure Blob Storage:
     - Hot
         - Best for frequently used-data
         - Low read and write cost

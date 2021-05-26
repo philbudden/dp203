@@ -21,7 +21,7 @@ tags: ["data","azure","dp203"]
     - is highly scalable
     - has low-latency
     - has quick response times (less than 10ms)
-    - has high availabilty (99.999% uptime)
+    - has high availability (99.999% uptime)
 
 - Commonly used for:
     - IOT

@@ -11,4 +11,4 @@ tags: ["data","azure","dp203"]
 
 [cosmosdb]: ./azure_cosmos_db.md
 [mongodb]: ./mongodb.md
-[document]: ./doucment_data_model.md
+[document]: ./document_data_model.md
